@@ -23,10 +23,10 @@ Live demo: _add link here once deployed_
 
 ## Tech
 
-- Node.js (18+) with no dependencies and no build step, so there is nothing to install and nothing to audit.
+- Node.js (18+) with no dependencies, so there is nothing to install and nothing to audit.
 - Server-rendered HTML from plain template functions, with a small amount of vanilla JavaScript for search, filters and ticks.
 - Hand-written CSS using a 28px ruled-paper grid, with fonts self-hosted.
-- Hardened static server: strict Content-Security-Policy and other security headers, GET and HEAD only, dotfiles never served, path-traversal tested, and all content escaped.
+- Static export (`npm run build`) that renders every page to plain HTML, ready to deploy on Vercel with a strict Content-Security-Policy and other security headers. The same headers and a hardened dev server (GET and HEAD only, dotfiles never served, path-traversal tested) run locally. All content is escaped.
 
 ## Run it
 
@@ -36,6 +36,8 @@ npm start
 
 Then open http://localhost:3000. Use `PORT=4000 npm start` to change the port.
 
+To build the static site: `npm run build` (output in `dist/`).
+
 ## Project layout
 
 ```
@@ -43,7 +45,9 @@ content/recipes/*.json   one file per recipe
 content/site.json        site text and category tabs
 lib/                     templates, content loader, illustrations
 public/                  CSS, JS, fonts, images
-server.js                routing and security headers
+server.js                local dev server with security headers
+build.js                 static export to dist/
+vercel.json              build settings and security headers for Vercel
 DESIGN.md                the design system and the reasons behind it
 ```
 

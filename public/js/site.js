@@ -36,6 +36,7 @@
     });
   }
   if (input) {
+    try { var pre = new URLSearchParams(location.search).get('q'); if (pre) input.value = pre.slice(0, 80); } catch (e) {}
     input.addEventListener('input', apply);
     input.form.addEventListener('submit', function (e) { e.preventDefault(); apply(); });
     apply();
