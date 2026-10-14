@@ -1,0 +1,156 @@
+{
+  "slug": "egg-chutney",
+  "status": "published",
+  "featured": true,
+  "title": "Egg chutney",
+  "summary": "Eggs poached in a spicy tomato and curry leaf chutney. Mop it up with fresh bread or roti.",
+  "category": "Mains",
+  "author": {
+    "name": "Sher",
+    "slug": "sher"
+  },
+  "country": {
+    "code": "za",
+    "name": "South Africa",
+    "place": "Durban"
+  },
+  "serves": "6 to 8 eggs in the sauce",
+  "images": {
+    "dish": null
+  },
+  "intro": "My favourite. One pot, a few eggs, and fresh bread or roti for the mopping up.",
+  "ingredients": [
+    {
+      "group": "Ingredients",
+      "items": [
+        {
+          "qty": "6–8",
+          "item": "eggs"
+        },
+        {
+          "qty": "1",
+          "item": "onion, chopped"
+        },
+        {
+          "qty": "4–5",
+          "item": "tomatoes (you can grate or blend them, but I just cut them up because I don't want extra dishes)"
+        },
+        {
+          "qty": "2 tablespoons",
+          "item": "vegetable oil / neutral oil"
+        },
+        {
+          "qty": "1 sprig",
+          "item": "thyme (optional)"
+        },
+        {
+          "qty": "3–5",
+          "item": "green chilies, slit down the middle"
+        },
+        {
+          "qty": "1 tablespoon",
+          "item": "chili powder or masala"
+        },
+        {
+          "qty": "¼ teaspoon",
+          "item": "turmeric powder"
+        },
+        {
+          "qty": "1 teaspoon",
+          "item": "chili flakes (optional)"
+        },
+        {
+          "qty": "½ teaspoon",
+          "item": "ginger and garlic paste"
+        },
+        {
+          "qty": "",
+          "item": "salt, to taste"
+        },
+        {
+          "qty": "1 teaspoon",
+          "item": "sugar"
+        },
+        {
+          "qty": "1 sprig",
+          "item": "curry leaves (the magic)"
+        },
+        {
+          "qty": "",
+          "item": "fresh coriander (dhania), for garnishing"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get the onions glassy",
+      "note": "Patience here. Glassy onions, not brown ones.",
+      "caption": "Onions doing their slow, glassy thing.",
+      "alt": "Chopped onion, thyme and slit green chilies softening in a cast-iron pan.",
+      "image": null,
+      "tasks": [
+        "Peel and finely chop the onion, slit the green chilies down the middle, and cut up the tomatoes. No grating, no blending, just chop. Fewer dishes, more eating.",
+        "Heat the oil in a pot over medium-high heat, then add the onions, green chilies and thyme.",
+        "Let them cook until the onions turn translucent and glassy."
+      ]
+    },
+    {
+      "title": "Spice it up",
+      "note": "Yes, it looks like a lot of spice. Trust it.",
+      "caption": "Spice party. Everyone's invited.",
+      "alt": "Chili powder, turmeric and ginger-garlic paste spooned over the softened onions in the pan.",
+      "image": null,
+      "tasks": [
+        "Time for the good stuff. Stir in the chili powder (or masala), chili flakes, turmeric and the ginger-garlic paste.",
+        "Mix it all through until every bit of onion is coated and the kitchen smells like something is about to happen."
+      ]
+    },
+    {
+      "title": "Let the tomatoes melt",
+      "note": "Curry leaves are non-negotiable. Don't @ me.",
+      "caption": "Curry leaves in. Smells like home already.",
+      "alt": "Tomatoes simmering into a thick red sauce with curry leaves floating on top.",
+      "image": null,
+      "tasks": [
+        "Tip in the tomatoes and the curry leaves (the magic, remember).",
+        "Stir well, put the lid on and let it simmer for about 10 minutes, until the sauce thickens and you see the oil start to separate at the top. That's your signal.",
+        "Stir in salt to taste and the sugar."
+      ]
+    },
+    {
+      "title": "Crack in the eggs",
+      "note": "Resist the urge to poke them. They know what they're doing.",
+      "caption": "Little sunny lids, tucked in for a nap.",
+      "alt": "Four eggs poached in the red tomato sauce, the yolks still bright.",
+      "image": null,
+      "tasks": [
+        "Turn the heat right down.",
+        "Crack the eggs straight into the sauce, side by side, so they cook evenly. Don't crowd them.",
+        "Lid on, and let them steam until the whites are fully set."
+      ]
+    },
+    {
+      "title": "Flip, garnish, serve",
+      "note": "Bread first, roti if you're feeling fancy. Mop up every last bit.",
+      "caption": "Flip, garnish, tear bread. Done.",
+      "alt": "The finished pan of egg chutney with coriander on top and torn bread beside it.",
+      "image": null,
+      "tasks": [
+        "Heat off. Carefully flip the eggs so they get a good coating of that chutney sauce.",
+        "Finish with fresh coriander.",
+        "Serve hot with fresh bread (my preference) or roti."
+      ]
+    }
+  ],
+  "noteHints": [],
+  "goodToKnow": [],
+  "preview": [
+    "6–8 eggs",
+    "4–5 tomatoes",
+    "1 sprig curry leaves"
+  ],
+  "source": null,
+  "dishCaption": "Dinner, sorted. Bread is not optional.",
+  "dishAlt": "A cast-iron pan of eggs set in a red tomato chutney, scattered with fresh herbs, with torn bread on the side."
+}

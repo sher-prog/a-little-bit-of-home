@@ -1,0 +1,17 @@
+{
+  "status": "coming-soon",
+  "featured": false,
+  "author": {
+    "name": "Sher",
+    "slug": "sher"
+  },
+  "country": {
+    "code": "za",
+    "name": "South Africa",
+    "place": "Durban"
+  },
+  "summary": "",
+  "slug": "bunny-chow",
+  "title": "Bunny chow",
+  "category": "Mains"
+}

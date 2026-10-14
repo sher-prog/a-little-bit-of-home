@@ -1,0 +1,188 @@
+{
+  "slug": "chicken-and-mushroom-pie",
+  "status": "published",
+  "featured": false,
+  "title": "Chicken and mushroom pie",
+  "summary": "Cubed chicken and mushrooms in a creamy béchamel, under a golden puff pastry lid.",
+  "category": "Mains",
+  "author": {
+    "name": "Sher",
+    "slug": "sher"
+  },
+  "country": {
+    "code": "za",
+    "name": "South Africa",
+    "place": "Durban"
+  },
+  "serves": "one pie, in a pie dish",
+  "time": {
+    "cook": "bake 35 to 40 min"
+  },
+  "images": {
+    "dish": null
+  },
+  "intro": "My gran Prema's pie, the one I used to wait to buy at the garage in SA.",
+  "ingredients": [
+    {
+      "group": "Filling and chicken",
+      "items": [
+        {
+          "qty": "4",
+          "item": "chicken fillets, cut into cubes"
+        },
+        {
+          "qty": "1½ cups",
+          "item": "chopped mushrooms (peeled and sliced)"
+        },
+        {
+          "qty": "2 tablespoons",
+          "item": "vegetable oil"
+        },
+        {
+          "qty": "1 tablespoon",
+          "item": "garlic powder"
+        },
+        {
+          "qty": "1 teaspoon",
+          "item": "ginger powder"
+        },
+        {
+          "qty": "½ teaspoon",
+          "item": "oregano"
+        },
+        {
+          "qty": "1 teaspoon",
+          "item": "basil"
+        },
+        {
+          "qty": "1 teaspoon",
+          "item": "ground black pepper"
+        },
+        {
+          "qty": "",
+          "item": "salt, to taste"
+        }
+      ]
+    },
+    {
+      "group": "Béchamel sauce (white sauce)",
+      "items": [
+        {
+          "qty": "100 grams",
+          "item": "butter"
+        },
+        {
+          "qty": "2 tablespoons",
+          "item": "flour"
+        },
+        {
+          "qty": "1½ cups",
+          "item": "milk (or fresh cream or heavy cream)"
+        },
+        {
+          "qty": "1 teaspoon",
+          "item": "nutmeg powder"
+        },
+        {
+          "qty": "1 tablespoon",
+          "item": "Parmesan cheese (be careful, it can make the dish more salty)"
+        },
+        {
+          "qty": "",
+          "item": "salt, to taste"
+        }
+      ]
+    },
+    {
+      "group": "Pastry and assembly",
+      "items": [
+        {
+          "qty": "400 grams",
+          "item": "puff pastry (1 roll)"
+        },
+        {
+          "qty": "1",
+          "item": "egg, beaten (for egg wash)"
+        },
+        {
+          "qty": "",
+          "item": "sesame seeds (optional, for topping)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Season and sizzle the chicken and mushrooms",
+      "tasks": [
+        "Rinse the chicken fillets, cut them into cubes and pop them in a bowl.",
+        "Season with salt, black pepper, oregano, sweet basil, garlic powder and ginger powder. Rub the spices into the meat properly. Don't be shy.",
+        "Heat 2 tablespoons of vegetable oil in a pot or pan over medium heat. Add the seasoned chicken, stir, cover with a lid and cook for 10 minutes. Do not drain the liquid that collects. That's flavour, boet.",
+        "Stir in the sliced mushrooms, cover, and cook for another 10 minutes. Turn off the heat and set it aside."
+      ],
+      "note": "Ja, the whole house is going to smell lekker. Prepare to be hungry.",
+      "caption": "Chicken and mushrooms, getting to know each other.",
+      "alt": "",
+      "image": null
+    },
+    {
+      "title": "Whisk up the béchamel",
+      "tasks": [
+        "In a separate pot, melt the butter over medium heat.",
+        "Whisk in the flour non-stop so it doesn't burn. No wandering off.",
+        "Slowly pour in the milk (or cream), stirring until it thickens into a creamy sauce.",
+        "Stir in the nutmeg, salt to taste and the Parmesan, then take it off the heat."
+      ],
+      "note": "Keep whisking. Lumps are not part of the plan.",
+      "caption": "Silky white sauce. Zero lumps allowed.",
+      "alt": "A pot of smooth white béchamel sauce, dusted with fresh nutmeg.",
+      "image": null
+    },
+    {
+      "title": "Bring the filling together",
+      "tasks": [
+        "Pour the white sauce into the pot with the chicken and mushrooms and mix until everything is properly coated.",
+        "Spoon the filling into your pie dish/pie mold. Ag, it already smells lekker."
+      ],
+      "note": "Taste it. Okay, now stop tasting it.",
+      "caption": "Creamy, chunky and ready to go.",
+      "alt": "Chicken pieces and sliced mushrooms folded through a creamy white sauce in a pan.",
+      "image": null
+    },
+    {
+      "title": "Roof it with pastry",
+      "tasks": [
+        "Preheat the oven to 180°C (350°F).",
+        "Lightly flour your work surface and unroll the puff pastry. Roll it out if you need to, so it covers the top of your dish.",
+        "Lay the pastry over the pie dish, trim the excess, and crimp or tuck the edges with your fingers (this is always a little tricky for me).",
+        "Brush the whole top with beaten egg.",
+        "Cut shapes from the leftover scraps (I prefer little hearts), set them on top, give everything another light coat of egg wash and sprinkle with sesame."
+      ],
+      "note": "Hearts or no hearts, it's your pie. But hearts.",
+      "caption": "Little hearts on top, because why not.",
+      "alt": "An unbaked puff pastry pie in a baking dish, glossy with egg wash, with little pastry hearts and sesame seeds on top.",
+      "image": null
+    },
+    {
+      "title": "Bake until golden",
+      "tasks": [
+        "Bake for 35 to 40 minutes, until the pastry is puffed up and golden brown.",
+        "Serve hot. Give it a few minutes first, ja? Your tongue will thank you."
+      ],
+      "note": "Now-now it'll be gone, so take the photo first.",
+      "caption": "Golden. Puffed. Done.",
+      "alt": "A golden, puffed chicken and mushroom pie with little pastry hearts on top.",
+      "image": null
+    }
+  ],
+  "noteHints": [],
+  "goodToKnow": [],
+  "preview": [
+    "4 chicken fillets",
+    "1½ cups chopped mushrooms",
+    "100 grams butter"
+  ],
+  "source": null,
+  "dishCaption": "Proper lekker. Hearts included.",
+  "dishAlt": "A golden, puffed chicken and mushroom pie with little pastry hearts on top."
+}

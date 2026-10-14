@@ -1,0 +1,37 @@
+{
+  "title": "a little bit of home",
+  "tagline": "Recipes from my childhood in Durban, South Africa.",
+  "hello": {
+    "greeting": "Hello!",
+    "lines": [
+      "Hey, I'm Shernice! Welcome to my recipe app—my little digital slice of home.",
+      "Growing up in Durban, South Africa, gave me a wildly adventurous palate, but ever since moving to the US, I've been seriously craving the flavors I grew up with. So, I decided to roll up my sleeves and start cooking up my all-time favorites (and finally trying out a few dishes I missed out on back in the day!).",
+      "I wanted to build a fun space to save and share these recipes with you all. I know I'm not the only one who misses that comforting taste of home, so hopefully, we can all share a little piece of our worlds here!"
+    ],
+    "signoff": "Yours, Sher",
+    "ps": "P.S. I am definitely not a master chef, but hey, I give it my absolute best shot!"
+  },
+  "note": {
+    "heading": "A note from me",
+    "lines": [
+      "I'm so excited to experience everyone's a little bit of home!",
+      "Hope you enjoy mine too!"
+    ]
+  },
+  "community": {
+    "heading": "pin your own card",
+    "text": "Soon, anyone will be able to add a recipe from their own country. For now the box is mine.",
+    "videos": "Short cook-along videos, live or animated, so you can follow every recipe step by step."
+  },
+  "categories": [
+    "All",
+    "Mains",
+    "Snacks",
+    "Dessert"
+  ],
+  "hero": {
+    "title": "Durbanite",
+    "secondary": "chicken-and-mushroom-pie"
+  },
+  "featuredLabel": "My GO-TO Favorite!"
+}

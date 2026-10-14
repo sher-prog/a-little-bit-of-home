@@ -1,0 +1,9 @@
+{
+  "name": "a-little-bit-of-home",
+  "version": "1.0.0",
+  "description": "Recipes from a Durban childhood. Zero dependencies.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
