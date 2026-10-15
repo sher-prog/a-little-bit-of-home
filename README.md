@@ -2,7 +2,7 @@
 
 A personal recipe site for the dishes I grew up on in Durban, South Africa. It is built to grow into a community where people add recipes from their own countries.
 
-Live demo: _add link here once deployed_
+Live demo: https://a-little-bit-of-home.vercel.app
 
 ![Home page](docs/home.jpg)
 
@@ -26,7 +26,7 @@ Live demo: _add link here once deployed_
 - Node.js (18+) with no dependencies, so there is nothing to install and nothing to audit.
 - Server-rendered HTML from plain template functions, with a small amount of vanilla JavaScript for search, filters and ticks.
 - Hand-written CSS using a 28px ruled-paper grid, with fonts self-hosted.
-- Static export (`npm run build`) that renders every page to plain HTML, ready to deploy on Vercel with a strict Content-Security-Policy and other security headers. The same headers and a hardened dev server (GET and HEAD only, dotfiles never served, path-traversal tested) run locally. All content is escaped.
+- Static export (`npm run build`) that renders every page to plain HTML, deployed on Vercel with a strict Content-Security-Policy and other security headers. The same headers and a hardened dev server (GET and HEAD only, dotfiles never served, path-traversal tested) run locally. All content is escaped.
 
 ## Run it
 
