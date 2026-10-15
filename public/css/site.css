@@ -297,3 +297,14 @@ input[type=search] { -webkit-appearance: none; appearance: none; }
 .letter .ink, .note-card .ink, .step-text .ink, .soon-note { font-size: max(1.5rem, 24px); }
 /* the big handwriting heading is taller than one ruled row, so it sits on a paper patch that interrupts the rules */
 .feat-text h2 { display: block; width: fit-content; background: var(--grain), var(--paper); padding: 0 .6rem; margin-left: -.6rem; line-height: calc(var(--u) * 2); }
+
+/* ---- back links at the end of every page; flag print centred on phones ---- */
+.page-end { max-width: 1200px; margin: 0 auto; padding: 8px var(--gut) 24px; display: flex; flex-wrap: wrap; gap: 4px 20px; }
+.page-end a { display: inline-flex; align-items: center; min-height: 44px; padding-inline: 4px; font-weight: 700; white-space: nowrap; color: var(--paper); }
+.page-end a:hover { color: var(--popcorn); }
+.page-end .to-top { margin-left: auto; }
+.arrow.up { width: .7em; height: 1.1em; margin: 0 0 0 .35em; }
+.sheet + .page-end, .sheet ~ .page-end { max-width: 1000px; width: calc(100% - 2 * var(--gut)); padding-inline: 0; }
+@media (max-width: 880px) {
+  .country-head .print { justify-self: center; width: min(100%, 340px); }
+}
